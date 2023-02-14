@@ -1,6 +1,8 @@
 # MuiMusic
 对[HeoMusic](https://github.com/zhheo/HeoMusic)进行个性化
-
+## 在线播放
+- [主路线](http://music.muieay.top/)
+- [备用路线](https://muieay.github.io/MuiMusic/)
 ## 基本操作
 
 `Space空格键`：暂停/播放音乐
