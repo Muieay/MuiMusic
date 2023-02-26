@@ -163,12 +163,11 @@ body #nav-music {
 }
 
 #heoMusic-page .aplayer-info .aplayer-lrc p {
-  font-size: 31px;
+  font-size: 28px;
   line-height: 44px;
   height: 44px;
   margin-bottom: 36px;
-  /*color: #fff;*/
-  animation: colorChang 10s linear 0s infinite;
+  color: #fff;
   font-weight: bold;
   text-align: left;
   filter: blur(2px);
@@ -176,27 +175,6 @@ body #nav-music {
   transition: all 0.9s cubic-bezier(0.56, 0.17, 0.22, 0.76);
   user-select:none;
   text-shadow: 0px 2px 0px #ffffff00;
-}
-
-@keyframes colorChang {
-  0% {
-    color: #cafaf4;
-  }
-  25% {
-    color: #fcdaff;
-  }
-  50% {
-    color: #c3d8f5;
-  }
-  75% {
-    color: #ecf6c7;
-  }
-  95% {
-    color: #f8d3d3;
-  }
-  100% {
-    color: #cafaf4;
-  }
 }
 
 #heoMusic-page .aplayer-info .aplayer-lrc p.aplayer-lrc-current {
