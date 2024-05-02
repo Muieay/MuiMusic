@@ -460,8 +460,8 @@
 .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar {
   position: absolute;
   bottom: 0;
-  right: 10px;
-  width: 5px;
+  right: 8px;
+  width: 8px;
   height: 35px;
   background: var(--heo-white-op);
   border-radius: 2.5px;
@@ -472,7 +472,7 @@
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 5px;
+  width: 8px;
   transition: all .1s ease
 }
 
